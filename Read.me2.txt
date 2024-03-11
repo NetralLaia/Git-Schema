@@ -1,0 +1,8 @@
+hai everyone...
+kita belajar apa hari ini?
+tahukah kamu apa itu VCS?
+tahukah kamu apa itu GIT?
+
+ayo belajar bareng akuuuu
+VCS dengan kepanjangan Version control sistem merupakan sebuah kendali sistem yang mengendalikan berbagai perubahan informasi dari setiap dokumen, kode sumber ataupu informasi lain yang disimpan dalam perangkat lunak.
+sedangkat GIT merupakan salah satu control sistem perangkat lunak dan biasa digunakan oleh para developer pengembang software.
